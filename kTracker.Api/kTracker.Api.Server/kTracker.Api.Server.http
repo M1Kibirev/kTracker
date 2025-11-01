@@ -1,0 +1,6 @@
+@kTracker.Api.Server_HostAddress = http://localhost:5027
+
+GET {{kTracker.Api.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "kTracker.Api.Core\\kTracker.Api.Core.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "kTracker.Api.Server\\kTracker.Api.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "kTracker.Api.Employee\\kTracker.Api.Employee\\kTracker.Api.Employee.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "kTracker.Api.Manager\\kTracker.Api.Manager\\kTracker.Api.Manager.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

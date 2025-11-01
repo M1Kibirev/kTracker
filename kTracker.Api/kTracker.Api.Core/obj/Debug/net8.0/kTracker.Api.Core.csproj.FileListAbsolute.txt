@@ -1,0 +1,11 @@
+C:\kTracker\kTracker.Api\kTracker.Api.Core\bin\Debug\net8.0\kTracker.Api.Core.deps.json
+C:\kTracker\kTracker.Api\kTracker.Api.Core\bin\Debug\net8.0\kTracker.Api.Core.dll
+C:\kTracker\kTracker.Api\kTracker.Api.Core\bin\Debug\net8.0\kTracker.Api.Core.pdb
+C:\kTracker\kTracker.Api\kTracker.Api.Core\obj\Debug\net8.0\kTracker.Api.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\kTracker\kTracker.Api\kTracker.Api.Core\obj\Debug\net8.0\kTracker.Api.Core.AssemblyInfoInputs.cache
+C:\kTracker\kTracker.Api\kTracker.Api.Core\obj\Debug\net8.0\kTracker.Api.Core.AssemblyInfo.cs
+C:\kTracker\kTracker.Api\kTracker.Api.Core\obj\Debug\net8.0\kTracker.Api.Core.csproj.CoreCompileInputs.cache
+C:\kTracker\kTracker.Api\kTracker.Api.Core\obj\Debug\net8.0\kTracker.Api.Core.dll
+C:\kTracker\kTracker.Api\kTracker.Api.Core\obj\Debug\net8.0\refint\kTracker.Api.Core.dll
+C:\kTracker\kTracker.Api\kTracker.Api.Core\obj\Debug\net8.0\kTracker.Api.Core.pdb
+C:\kTracker\kTracker.Api\kTracker.Api.Core\obj\Debug\net8.0\ref\kTracker.Api.Core.dll
