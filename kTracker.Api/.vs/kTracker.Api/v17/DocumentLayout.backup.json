@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\kTracker\\kTracker.Api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{940DB049-150C-4ABE-A3CA-7B901C31E820}|kTracker.Api.Core\\kTracker.Api.Core.csproj|c:\\ktracker\\ktracker.api\\ktracker.api.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940DB049-150C-4ABE-A3CA-7B901C31E820}|kTracker.Api.Core\\kTracker.Api.Core.csproj|solutionrelative:ktracker.api.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940DB049-150C-4ABE-A3CA-7B901C31E820}|kTracker.Api.Core\\kTracker.Api.Core.csproj|c:\\ktracker\\ktracker.api\\ktracker.api.core\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940DB049-150C-4ABE-A3CA-7B901C31E820}|kTracker.Api.Core\\kTracker.Api.Core.csproj|solutionrelative:ktracker.api.core\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E054D7-7F24-40D7-A7DE-72DDF762A166}|kTracker.Api.Server\\kTracker.Api.Server.csproj|c:\\ktracker\\ktracker.api\\ktracker.api.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88E054D7-7F24-40D7-A7DE-72DDF762A166}|kTracker.Api.Server\\kTracker.Api.Server.csproj|solutionrelative:ktracker.api.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E054D7-7F24-40D7-A7DE-72DDF762A166}|kTracker.Api.Server\\kTracker.Api.Server.csproj|c:\\ktracker\\ktracker.api\\ktracker.api.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E054D7-7F24-40D7-A7DE-72DDF762A166}|kTracker.Api.Server\\kTracker.Api.Server.csproj|solutionrelative:ktracker.api.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940DB049-150C-4ABE-A3CA-7B901C31E820}|kTracker.Api.Core\\kTracker.Api.Core.csproj|c:\\ktracker\\ktracker.api\\ktracker.api.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940DB049-150C-4ABE-A3CA-7B901C31E820}|kTracker.Api.Core\\kTracker.Api.Core.csproj|solutionrelative:ktracker.api.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940DB049-150C-4ABE-A3CA-7B901C31E820}|kTracker.Api.Core\\kTracker.Api.Core.csproj|c:\\ktracker\\ktracker.api\\ktracker.api.core\\entities\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940DB049-150C-4ABE-A3CA-7B901C31E820}|kTracker.Api.Core\\kTracker.Api.Core.csproj|solutionrelative:ktracker.api.core\\entities\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940DB049-150C-4ABE-A3CA-7B901C31E820}|kTracker.Api.Core\\kTracker.Api.Core.csproj|c:\\ktracker\\ktracker.api\\ktracker.api.core\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940DB049-150C-4ABE-A3CA-7B901C31E820}|kTracker.Api.Core\\kTracker.Api.Core.csproj|solutionrelative:ktracker.api.core\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\kTracker\\kTracker.Api\\kTracker.Api.Server\\Program.cs",
+              "RelativeDocumentMoniker": "kTracker.Api.Server\\Program.cs",
+              "ToolTip": "C:\\kTracker\\kTracker.Api\\kTracker.Api.Server\\Program.cs",
+              "RelativeToolTip": "kTracker.Api.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T11:15:47.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\kTracker\\kTracker.Api\\kTracker.Api.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "kTracker.Api.Server\\appsettings.json",
+              "ToolTip": "C:\\kTracker\\kTracker.Api\\kTracker.Api.Server\\appsettings.json",
+              "RelativeToolTip": "kTracker.Api.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-01T11:12:57.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\kTracker\\kTracker.Api\\kTracker.Api.Core\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "kTracker.Api.Core\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\kTracker\\kTracker.Api\\kTracker.Api.Core\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "kTracker.Api.Core\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T11:11:04.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\kTracker\\kTracker.Api\\kTracker.Api.Core\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "kTracker.Api.Core\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\kTracker\\kTracker.Api\\kTracker.Api.Core\\Enums\\UserRole.cs",
+              "RelativeToolTip": "kTracker.Api.Core\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T11:07:21.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\kTracker\\kTracker.Api\\kTracker.Api.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "kTracker.Api.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\kTracker\\kTracker.Api\\kTracker.Api.Core\\Entities\\User.cs",
+              "RelativeToolTip": "kTracker.Api.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T11:01:21.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\kTracker\\kTracker.Api\\kTracker.Api.Core\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "kTracker.Api.Core\\Entities\\Employee.cs",
+              "ToolTip": "C:\\kTracker\\kTracker.Api\\kTracker.Api.Core\\Entities\\Employee.cs",
+              "RelativeToolTip": "kTracker.Api.Core\\Entities\\Employee.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T11:00:16.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shift.cs",
+              "DocumentMoniker": "C:\\kTracker\\kTracker.Api\\kTracker.Api.Core\\Entities\\Shift.cs",
+              "RelativeDocumentMoniker": "kTracker.Api.Core\\Entities\\Shift.cs",
+              "ToolTip": "C:\\kTracker\\kTracker.Api\\kTracker.Api.Core\\Entities\\Shift.cs",
+              "RelativeToolTip": "kTracker.Api.Core\\Entities\\Shift.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T10:59:31.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

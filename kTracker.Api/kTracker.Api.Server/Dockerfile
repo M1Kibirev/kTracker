@@ -12,10 +12,11 @@ EXPOSE 8081
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["kTracker.Api.Server.csproj", "."]
-RUN dotnet restore "./kTracker.Api.Server.csproj"
+COPY ["kTracker.Api.Server/kTracker.Api.Server.csproj", "kTracker.Api.Server/"]
+COPY ["kTracker.Api.Core/kTracker.Api.Core.csproj", "kTracker.Api.Core/"]
+RUN dotnet restore "./kTracker.Api.Server/kTracker.Api.Server.csproj"
 COPY . .
-WORKDIR "/src/."
+WORKDIR "/src/kTracker.Api.Server"
 RUN dotnet build "./kTracker.Api.Server.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
 # Этот этап используется для публикации проекта службы, который будет скопирован на последний этап

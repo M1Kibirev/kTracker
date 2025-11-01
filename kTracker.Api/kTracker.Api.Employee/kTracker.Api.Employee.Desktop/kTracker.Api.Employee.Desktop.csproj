@@ -15,5 +15,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\kTracker.Api.Employee\kTracker.Api.Employee.csproj" />
+    <ProjectReference Include="..\..\kTracker.Api.Core\kTracker.Api.Core.csproj" />
   </ItemGroup>
 </Project>
