@@ -1,0 +1,185 @@
+# =================================
+# ОБЩИЕ ПРАВИЛА
+# =================================
+
+## Операционные системы ##
+
+# Windows
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+
+## IDE ##
+
+# Visual Studio
+.vs/
+.vsconfig
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.sln.ide
+*.csproj.user
+
+
+## Логи и временные файлы ##
+*.log
+*.tmp
+*.temp
+logs/
+temp/
+tmp/
+
+# =================================
+# ASP.NET CORE
+# =================================
+
+## Компиляция ##
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.xml
+
+## Конфигурации ##
+appsettings.Development.json
+appsettings.Local.json
+appsettings.private.json
+appsettings.*.json
+
+## Опубликованные приложения ##
+publish/
+*.nupkg
+_ReSharper.*
+*.[Rr]e[Ss]harper
+
+## Entity Framework ##
+Migrations/*.Designer.cs
+Migrations/*.resx
+
+## Тесты ##
+TestResults/
+*.VisualStudio.Test.xml
+*.coverage
+
+# =================================
+# AVALONIA UI
+# =================================
+
+## Avalonia специфичное ##
+avalonia.build
+*.avalonia
+*.skia
+
+## Ресурсы и assets ##
+*.ilk
+*.map
+*.exp
+*.lib
+
+## Сборки ##
+/dist/
+/build/
+/out/
+
+# =================================
+# DOCKER
+# =================================
+
+## Docker файлы ##
+.docker/
+docker-compose.override.yml
+docker-compose.vs.debug.yml
+docker-compose.vs.release.yml
+
+## Docker данные и volumes ##
+docker-data/
+docker-volumes/
+
+## Docker контексты ##
+.dockercontext
+
+# =================================
+# ОБЩЕЕ ДЛЯ .NET
+# =================================
+
+## NuGet ##
+.nuget/
+NuGet.exe
+nuget.exe
+packages/
+*.nupkg
+project.lock.json
+
+## Прочее .NET ##
+*.[Cc]ache
+*.ilk
+*.msi
+*.resources
+_ReSharper.*
+*.[Rr]e[Ss]harper
+*.bak
+
+# =================================
+# СИСТЕМНЫЕ ФАЙЛЫ
+# =================================
+
+## Резервные копии ##
+*.bak
+*.backup
+*.old
+*.orig
+
+## Архивы ##
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+## Документация ##
+*.chm
+*.pdf
+
+# =================================
+# GIT
+# =================================
+
+# Уже обрабатывается гитом, но для полноты
+.git/
+.gitattributes
+.gitkeep
+
+# =================================
+# СЕТЬ И БЕЗОПАСНОСТЬ
+# =================================
+
+# Файлы с секретами и конфигурацией
+*.secret
+*.key
+*.pfx
+*.pem
+*.crt
+secrets.json
+connectionstrings.config
+
+# =================================
+# ПРОЧЕЕ
+# =================================
+
+## Проектные файлы ##
+*.swp
+*.swo
+
+## Кэши ##
+.cache/
+.parcel-cache/
+
+## Анализ кода ##
+*.sarif
+*.analysis

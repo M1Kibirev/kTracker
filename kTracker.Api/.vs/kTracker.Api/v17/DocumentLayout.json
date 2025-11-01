@@ -50,8 +50,7 @@
               "RelativeToolTip": "kTracker.Api.Server\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T11:15:47.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T11:15:47.84Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "kTracker.Api.Server\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-01T11:12:57.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T11:12:57.457Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "kTracker.Api.Core\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T11:11:04.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T11:11:04.833Z"
             },
             {
               "$type": "Document",
@@ -89,8 +86,7 @@
               "RelativeToolTip": "kTracker.Api.Core\\Enums\\UserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T11:07:21.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T11:07:21.04Z"
             },
             {
               "$type": "Document",
@@ -102,8 +98,7 @@
               "RelativeToolTip": "kTracker.Api.Core\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T11:01:21.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T11:01:21.083Z"
             },
             {
               "$type": "Document",
@@ -113,7 +108,7 @@
               "RelativeDocumentMoniker": "kTracker.Api.Core\\Entities\\Employee.cs",
               "ToolTip": "C:\\kTracker\\kTracker.Api\\kTracker.Api.Core\\Entities\\Employee.cs",
               "RelativeToolTip": "kTracker.Api.Core\\Entities\\Employee.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCkAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wCkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-01T11:00:16.434Z",
               "EditorCaption": ""
@@ -128,8 +123,7 @@
               "RelativeToolTip": "kTracker.Api.Core\\Entities\\Shift.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T10:59:31.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T10:59:31.01Z"
             }
           ]
         }

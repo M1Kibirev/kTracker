@@ -1,6 +1,0 @@
-services:
-  ktracker.api.server:
-    image: ${DOCKER_REGISTRY-}ktrackerapiserver
-    build:
-      context: .
-      dockerfile: kTracker.Api.Server/Dockerfile
