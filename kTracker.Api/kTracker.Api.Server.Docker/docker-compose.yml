@@ -1,0 +1,29 @@
+services:
+  ktracker.api.server:
+    image: ${DOCKER_REGISTRY-}ktrackerapiserver
+    container_name: host
+    build:
+      context: .
+      dockerfile: ../kTracker.Api.Server/Dockerfile
+    ports:
+      - "8080:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Host=postgresql;Port=5432;Database=myappdb;Username=postgres;Password=admin;
+    depends_on:
+      - postgresql
+
+  postgresql:
+    image: postgres:18
+    container_name: db
+    environment:
+      - POSTGRES_DB=ktrackerdb
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=admin
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql
+
+volumes:
+  postgres-data:

@@ -21,9 +21,21 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
+
+using (var scope = app.Services.CreateScope())
+{
+    try
+    {
+        var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+        db.Database.Migrate();
+        Console.WriteLine("Миграции успешно применены");
+    }
+    catch
+    {
+        Console.WriteLine("Ошибка применения миграций");
+    }
+}
 
 app.Run();
